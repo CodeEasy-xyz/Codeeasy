@@ -1,0 +1,142 @@
+#section1{
+    background-color: rgb(235, 141, 86);
+    padding: 1.5% 1.5%;
+}
+#section2{
+    background-color: rgb(255, 255, 255);
+    padding: 1.5% 1.5%;
+}
+#section3{
+    background-color: rgb(235, 141, 86);
+    padding: 1.5% 1.5%;
+}
+#footersection{
+padding-bottom: 1.5%;
+    text-align: center;
+    background-color: rgb(235, 141, 86);
+}
+.form-group{
+    margin-top: 1.5%;
+}
+h1{
+    font-size: 1.5em;
+    padding: 1.5%;
+}
+h2{
+    font-size: 1.5em;
+    padding-top: 2%;
+}
+h3{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.85em;
+    padding-top: 2.5%;
+    padding-left: 0%;
+    padding-bottom: 1.5%;
+}
+h4{
+    margin:  4.5% 0;
+    
+}
+.social{
+    padding: 1.5%;
+    font-size: 1.25em;
+    color: black;
+}
+
+h5{
+    font-family: 'Montserrat', sans-serif;
+    padding:3% 0;
+    
+}
+
+h6{
+    padding-bottom: 1.5%;
+    font-weight: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(42, 42, 233);
+}
+p{
+   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.alink{
+    text-decoration: none;
+    color: #f39189;
+}
+.alink:hover{
+    text-decoration: underline;
+    color: #d97642;
+}
+.alink2{
+    font-size: 1em;
+    font-weight: bold;
+    text-decoration: underline;
+    color: #ffffff;
+}
+.alinkfoot{
+text-decoration: none;
+color: white;
+}
+.alinkfoot:hover{
+    text-decoration: none;
+    color: rgb(82, 69, 69);
+    }
+.intro{
+    margin-bottom: 2%;
+}
+.navbar{
+    padding-bottom: 20px;
+}
+.navbar-brand{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3em;
+     font-weight: bold;
+ }
+ .nav-link{
+     font-size: 1.5em;
+     padding: 2%;
+ }
+ .content{
+     color: rgb(255, 255, 255);
+     background-color: rgb(15, 15, 15);
+     padding: 2%;
+  
+ }
+ .label{
+     font-weight: bold;
+ }
+ .element{
+     width: 50%;
+
+ }
+ .code{
+     background-color: rgb(80, 79, 79);
+ }
+ .imageart{
+     width: 50%;
+     height: 50%;
+ }
+ .Contribute{
+    background-color: rgb(235, 141, 86);
+ }
+ @media only screen and (max-width:570px){
+    #section1{
+        background-color: rgb(235, 141, 86);
+        padding: 0;
+    }
+    #section2{
+        background-color: rgb(255, 255, 255);
+        padding: 0;
+    }
+    h3{
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 1.45em;
+        padding-top: 2.5%;
+        padding-left: 0%;
+        padding-bottom: 1.5%;
+    }
+    .imageart{
+        width: 100%;
+        height: 100%;
+    }
+ }

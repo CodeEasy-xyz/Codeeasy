@@ -1,0 +1,173 @@
+#section1{
+    background-color: rgb(235, 141, 86);
+    padding: 2.5% 7%;
+}
+#section2{
+    background-color: rgb(241, 229, 241);
+    padding: 2.5% 7%;
+}
+
+#footersection{
+    padding-bottom: 1.5% ;
+    text-align: center;
+    background-color: rgb(235, 141, 86);
+}
+.social{
+    padding: 0 1.5%;
+    font-size: 1.25em;
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+a:hover{
+    color: rgb(185, 71, 166);
+}
+.alinkfoot{
+   
+    color: rgb(252, 250, 252);
+}
+.alinkfoot:hover{
+    color: rgb(68, 59, 53);
+}
+h2{
+     font-family: 'Montserrat', sans-serif;
+     font-size: 2.5em;
+     font-weight: bold;
+     text-align: center; 
+     padding: 2.5%;   
+}
+h3{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.85em;
+    padding-top: 2.5%;
+    padding-left: 0%;
+    padding-bottom: 1.5%;
+    
+}
+h4{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+     font-size: 2em;
+     padding: 1.5%;
+     color: white;
+}
+h5{
+    font-family:'Ubuntu', sans-serif;
+    font-size: 1.25em;
+   padding-top: 1.5% ;
+   padding-bottom: 1.25%;
+    text-align: center;
+}
+h6{
+    padding-bottom: 1.5%;
+    font-weight: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(230, 230, 247);
+}
+p{
+    color: black;
+    font-size: 1.05em;
+}
+.hfoot{
+    font-family:'Montserrat', sans-serif;
+    font-size: 1.5em;
+}
+.footdiv{
+    padding-top: 1.5%;
+}
+
+.image{
+    width: 90%;
+    height: 95%;
+  
+}
+.logoimage{
+    width: 55px;
+    height: 55px;
+}
+
+table thead{
+    font-size: 1.5em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    
+}
+table tbody{
+    font-size: 1.25em;
+    
+    font-weight: 500;
+}
+.navbar{
+    padding-bottom: 20px;
+}
+.navbar-brand{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3em;
+     font-weight: bold;
+ 
+ }
+ .nav-link{
+     font-size: 1.5em;
+    
+ }
+
+.borderbet{
+   padding: 2.0%;
+    width: 10%;
+    border-bottom: 10px dotted rgb(168, 163, 163);
+    border-top: none;
+    margin: auto;
+}
+.formgrp{
+   
+    width: 50%;
+    padding: 0 7%;
+    margin: auto;
+}
+.element{
+    margin-bottom: 4.5%;
+}
+.label{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+}
+@media only screen and (max-width:992px){
+    table td{
+        text-align: center;
+    }
+    #section1{
+        background-color: rgb(235, 141, 86);
+        padding: 0;
+    }
+    #section2{
+        background-color: rgb(241, 229, 241);
+        padding: 0;
+    }
+   
+    #section4{
+        background-color: rgb(235, 141, 86);
+        padding:0%;
+    }
+    #footersection{
+        text-align: center;
+        padding: 3.5%;
+    }
+    .navbar-brand{
+        font-family: 'Montserrat', sans-serif;
+        font-size: 2.25em;
+         font-weight: bold;
+     
+     }
+     .logoimage{
+        width: 45px;
+        height: 45px;
+    }
+    .social{
+        padding: 0 2%;
+        font-size: 1.25em;
+    }
+}
+
+
