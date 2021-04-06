@@ -157,6 +157,7 @@ body .gist .gist-file {
 #section2{
     background-color: rgb(241, 229, 241);
     padding: 1.5% 1.5%;
+    margin:2.5% 0;
 }
 #footersection{
   background-color: rgb(235, 141, 86);
